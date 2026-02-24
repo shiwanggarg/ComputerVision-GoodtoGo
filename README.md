@@ -1,4 +1,4 @@
-# Auto Face Clustering with Natural Language AI Chatbot
+# FaceChat.ai
 UCS532 — Computer Vision (GOOD-TO-GO) | RAI – 3W1C
 
 A fully local intelligent face clustering and conversational image retrieval system built as part of the UCS532 Computer Vision course.
