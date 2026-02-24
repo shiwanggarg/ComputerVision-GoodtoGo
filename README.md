@@ -24,7 +24,7 @@ This project leverages computer vision and unsupervised learning techniques to a
 
 - Multi-person co-occurrence detection
 
-- Clothing & basic attribute tagging (e.g., black shirt, smiling)
+- Clothing & basic attribute tagging (e.g., black shirt)
 
 - Conversational chatbot interface for search
 
@@ -53,7 +53,7 @@ This project leverages computer vision and unsupervised learning techniques to a
 
 4. DBSCAN clusters embeddings into person-wise groups.
 
-5. Metadata (clothing color, brightness, smile detection) is generated.
+5. Metadata (clothing color, brightness) is generated.
 
 6. The chatbot parses user queries.
 
@@ -89,13 +89,17 @@ flowchart TD
 
 - Add emotion recognition model
 
-- Use transformer-based NLP parsing
+- Use transformer-based NLP parsing for better query understanding
 
-- Develop web-based UI
+- Develop web-based UI (Flask / React)
 
-- Real-time CCTV tracking extension
+- Scalable cloud deployment for large datasets
 
-- Scalable cloud version
+- Incremental clustering for live camera feeds
+
+- Real-time video face tracking and identity persistence
+
+- CCTV-based continuous monitoring and event logging
 
 ## 👨‍💻 Authors
 
