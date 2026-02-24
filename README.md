@@ -1,5 +1,5 @@
 # Auto Face Clustering with Natural Language AI Chatbot
-UCS532 — Computer Vision (GAMMA) | RAI – 3W1C
+UCS532 — Computer Vision (GOOD-TO-GO) | RAI – 3W1C
 
 A fully local intelligent face clustering and conversational image retrieval system built as part of the UCS532 Computer Vision course.
 The system automatically groups faces using ArcFace + DBSCAN and allows users to search images using natural language queries like
