@@ -107,4 +107,4 @@ flowchart TD
 |---|---------------|------------|--------|--------|
 | 1 | Shiwang Garg | 102323053  | [@shiwanggarg](https://github.com/shiwanggarg) | (https://substack.com/@shiwanggarg/posts)
 | 2 | Pranjal Garg | 102323055  | [@Pranjal02garg](https://github.com/Pranjal02garg) | (https://medium.com/@pranjalgarg02gp)
-| 3 | Saam Gupta       | 102323056  | [@saanchi-gupta](https://github.com/saanchi-gupta) |
+| 3 | Saam Gupta       | 102323056  | [@saanchi-gupta](https://github.com/saanchi-gupta) | (https://medium.com/@sgupta_be23)
